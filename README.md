@@ -1,4 +1,4 @@
-[![Header](https://github.com/iPatrushevSergey/iPatrushevSergey/blob/main/Prismatic.jpg)](https://www.linkedin.com/in/isergeypatrushev/)
+[![Header](https://github.com/iPatrushevSergey/iPatrushevSergey/blob/main/The-Gherkin.jpg)](https://www.linkedin.com/in/isergeypatrushev/)
 
  About me
 
