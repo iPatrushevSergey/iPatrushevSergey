@@ -1,4 +1,4 @@
-[![Header](https://github.com/iPatrushevSergey/iPatrushevSergey/blob/main/The-Gherkin.jpg)
+![Header](https://github.com/iPatrushevSergey/iPatrushevSergey/blob/main/The-Gherkin.jpg)
 
 # Hi! I'm Sergey, Python-developer
 ### Yandex.Practicum graduate
@@ -29,5 +29,5 @@
 ![Yandex.Cloud](https://img.shields.io/badge/-Yandex.Cloud-090909)
 
 Contact me:
-[![Telegram](https://github.com/iPatrushevSergey/iPatrushevSergey/blob/main/telegram.jpg)](https://t.me/Sergey_Patrushev)
-[![LinkedIn](https://github.com/iPatrushevSergey/iPatrushevSergey/blob/main/in.png)](https://www.linkedin.com/in/isergeypatrushev/)
+[![Telegram](https://github.com/iPatrushevSergey/iPatrushevSergey/blob/main/telegram.jpg =50x50)](https://t.me/Sergey_Patrushev)
+[![LinkedIn](https://github.com/iPatrushevSergey/iPatrushevSergey/blob/main/in.png =50x50)](https://www.linkedin.com/in/isergeypatrushev/)
