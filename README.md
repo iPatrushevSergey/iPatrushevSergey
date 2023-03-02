@@ -29,11 +29,5 @@
 ![Yandex.Cloud](https://img.shields.io/badge/-Yandex.Cloud-090909)
 
 ### Contact me:
-<div>
-    <a href="https://t.me/Sergey_Patrushev">
-        <img src="https://github.com/iPatrushevSergey/iPatrushevSergey/blob/main/telegram.jpg" width="50" height="50" />
-    </a>
-    <a href="https://www.linkedin.com/in/isergeypatrushev/">
-        <img src="https://github.com/iPatrushevSergey/iPatrushevSergey/blob/main/in.png" width="50" height="50" />
-    </a>
-</div>
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Sergey_Patrushev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/isergeypatrushev/)
