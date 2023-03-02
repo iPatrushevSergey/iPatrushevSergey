@@ -4,6 +4,7 @@
 ### Yandex.Practicum graduate
 
 ### Languages and Tools:
+<center>
 ![Python](https://img.shields.io/badge/-Python-090909)
 ![Django](https://img.shields.io/badge/-Django-090909)
 ![DRF](https://img.shields.io/badge/-DRF-090909)
@@ -19,6 +20,8 @@
 ![Alembic](https://img.shields.io/badge/-Alembic-090909)
 ![Git](https://img.shields.io/badge/-Git-090909)
 ![Docker](https://img.shields.io/badge/-Docker-090909)
+</center>
+<center>
 ![Docker-compose](https://img.shields.io/badge/-Docker_compose-090909)
 ![Gunicorn](https://img.shields.io/badge/-Gunicorn-090909)
 ![Nginx](https://img.shields.io/badge/-Nginx-090909)
@@ -27,6 +30,7 @@
 ![Pytest](https://img.shields.io/badge/-Pytest-090909)
 ![Jinja2](https://img.shields.io/badge/-Jinja2-090909)
 ![Yandex.Cloud](https://img.shields.io/badge/-Yandex.Cloud-090909)
+</center>
 
 ### Contact me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Sergey_Patrushev)
