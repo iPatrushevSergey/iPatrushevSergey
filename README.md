@@ -28,6 +28,7 @@
 ![Jinja2](https://img.shields.io/badge/-Jinja2-090909)
 ![Yandex.Cloud](https://img.shields.io/badge/-Yandex.Cloud-090909)
 
-Contact me:
-[![Telegram](https://github.com/iPatrushevSergey/iPatrushevSergey/blob/main/telegram.jpg =50x50)](https://t.me/Sergey_Patrushev)
-[![LinkedIn](https://github.com/iPatrushevSergey/iPatrushevSergey/blob/main/in.png =50x50)](https://www.linkedin.com/in/isergeypatrushev/)
+### Contact me:
+<img src="https://github.com/iPatrushevSergey/iPatrushevSergey/blob/main/telegram.jpg" width="50" height="50" />
+[![Telegram](https://github.com/iPatrushevSergey/iPatrushevSergey/blob/main/telegram.jpg=50x50)](https://t.me/Sergey_Patrushev)
+[![LinkedIn](https://github.com/iPatrushevSergey/iPatrushevSergey/blob/main/in.png=50x50)](https://www.linkedin.com/in/isergeypatrushev/)
