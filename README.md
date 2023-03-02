@@ -29,7 +29,7 @@
 ![Yandex.Cloud](https://img.shields.io/badge/-Yandex.Cloud-090909)
 
 ### Contact me:
-<div class="border">
+<div>
     <a href="https://t.me/Sergey_Patrushev">
         <img src="https://github.com/iPatrushevSergey/iPatrushevSergey/blob/main/telegram.jpg" width="50" height="50" />
     </a>
