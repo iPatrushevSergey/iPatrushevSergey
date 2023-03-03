@@ -1,5 +1,3 @@
-![Header](https://github.com/iPatrushevSergey/iPatrushevSergey/blob/main/The-Gherkin.jpg)
-
 # Hi! I'm Sergey, Python-developer
 ### Yandex.Practicum graduate
 
