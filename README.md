@@ -1,4 +1,4 @@
-# Hi! I'm Sergey, Python/ml developer
+# Hi! I'm Sergey, backend/ml developer
 
 ### Languages and Tools:
 <div align="center">
