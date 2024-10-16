@@ -1,5 +1,4 @@
-# Hi! I'm Sergey, Python-developer
-### Yandex.Practicum graduate
+# Hi! I'm Sergey, Python/ml developer
 
 ### Languages and Tools:
 <div align="center">
@@ -8,6 +7,7 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-090909)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-090909)
 ![Keras](https://img.shields.io/badge/-Keras-090909)
+![Pytorch](https://img.shields.io/badge/-Pytorch-090909)
 ![Docker](https://img.shields.io/badge/-Docker-090909)
 ![Pandas](https://img.shields.io/badge/-Pandas-090909)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-090909)
